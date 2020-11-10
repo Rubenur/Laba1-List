@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Lab 1 Test.cpp
+C:\project C++\2 курс 1 сем\АиСД\Lab 1\List.cpp(295,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\project C++\2 курс 1 сем\АиСД\Lab 1\List.cpp(298,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\project C++\2 курс 1 сем\АиСД\Lab 1\List.cpp(165): warning C4715: Singly_Linked_List::at: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\project C++\2 курс 1 сем\АиСД\Lab 1\Debug\Lab 1 Test.lib и объект C:\project C++\2 курс 1 сем\АиСД\Lab 1\Debug\Lab 1 Test.exp
+  Lab 1 Test.vcxproj -> C:\project C++\2 курс 1 сем\АиСД\Lab 1\Debug\Lab 1 Test.dll
